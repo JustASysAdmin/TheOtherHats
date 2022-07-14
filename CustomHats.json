@@ -120,6 +120,14 @@
             "resource": "leaf.png"
         },
         {
+            "author": "Pigoletto",
+            "condition": "None",
+            "name": "Aplatypuss",
+            "package": "TOU Hats",
+            "reshasha": "ed46076dcae2e3c777108141b2e27906",
+            "resource": "aplatypuss.png"
+        },
+        {
             "adaptive": true,
             "author": "Ruolbu",
             "climbresource": "brain_climb.png",
