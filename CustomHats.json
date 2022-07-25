@@ -66,6 +66,16 @@
             "resource": "dj.png"
         },
         {
+            "author": "Kit",
+            "climbresource": "kitwitch_climb.png",
+            "condition": "None",
+            "name": "Witch (Original)",
+            "package": "Community Hats",
+            "reshasha": "43fb2a7b13a69dd51698db745037e53c",
+            "reshashc": "9a694b66ac72063f291c88e719e67d2c",
+            "resource": "kitwitch.png"
+        },
+        {
             "adaptive": true,
             "author": "Ruolbu",
             "climbresource": "bulb_climb.png",
