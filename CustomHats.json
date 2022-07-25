@@ -12,6 +12,16 @@
             "resource": "megaphone_bounce.png"
         },
         {
+            "author": "Rayne",
+            "climbresource": "PanHair_climb.png",
+            "condition": "None",
+            "name": "PanHair",
+            "package": "Community Hats",
+            "reshasha": "b3968010d305eb574d452da120793daa",
+            "reshashc": "e10459d10fe3c78be1b23bf899daa5d1",
+            "resource": "PanHair.png"
+        },
+        {
             "author": "Ruolbu",
             "climbresource": "cat_climb.png",
             "condition": "None",
